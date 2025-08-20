@@ -1,0 +1,22 @@
+site_name: Marcin Salski - portfolio projektów 
+site_author: Marcin Salski
+site_description: >-
+  Portfolio moich projektów informatycznych wykonanych z wykorzystaniem AI
+
+theme:
+  name: material
+
+nav:
+- Powitanie: index.md
+- Projekty analityczne:
+  - "Irysy-artykuł": Irysy_a/index.md
+  - "Irysy-prezentacja": Irysy_p/index.md
+  - "Index BMI": BMI/index.md
+  - "Titanic": Titanic/index.md
+- Aplikacje:
+  - "Audio notatki": Audionotatki/index.md 
+  - "Kolorowanki": Kolorowanki/index.md
+  - "Znajomi": Znajomi/index.md
+
+  
+
