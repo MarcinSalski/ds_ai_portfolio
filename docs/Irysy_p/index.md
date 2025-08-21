@@ -7,7 +7,7 @@ To jeden z pierwszych projektów analitycznych, które wykonałem z wykorszystan
 
 <iframe
     id="content"
-    src="irysy.html"
+    src="Irysy.html"
     width="100%"
     style="border:1px solid black;overflow:hidden;"
 ></iframe>
