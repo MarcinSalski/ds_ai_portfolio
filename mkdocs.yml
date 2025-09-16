@@ -1,14 +1,10 @@
 site_name: Wojtek Salski Creative Works
 site_author: Marcin Salski
 site_description: >-
-<<<<<<< HEAD
   Portfolio moich projektów informatycznych wykonanych z wykorzystaniem AI i Pythona.
-=======
-  Portfolio of my creative projects
->>>>>>> 769bc7b9723cb4cb5b315f2cd92e5900e9200ab1
 
-repo_name: MarcinSalski/ws_portfolio
-repo_url: https://github.com/MarcinSalski/ws_portfolio
+repo_name: MarcinSalski/ds_ai_portfolio
+repo_url: https://github.com/MarcinSalski/ds_ai_portfolio
 
 theme:
   name: material
